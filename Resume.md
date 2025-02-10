@@ -27,4 +27,4 @@ Joyner Elementary School, Greensboro, NC
 Reading Tutor
 Tutored elementary students to help them develop their reading and comprehension skills. 
 
-<img src="/Grayson Highlands.jpg">
+<img src="Grayson Highlands.jpg">
